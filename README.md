@@ -1,0 +1,2 @@
+# React-Native_Calculator-App
+ The React Native Calculator App seamlessly blends user-friendliness with cross-platform versatility, offering a responsive design that adapts effortlessly to diverse devices. With a focus on basic arithmetic operations, this app provides an intuitive and accessible tool for users on both iOS and Android platforms, ensuring a consistently smooth and efficient experience.
